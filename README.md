@@ -1,1 +1,3 @@
-# 67.ytx-BUGGED-
+# 67.ytx [BUGGED]
+
+Requirement: https://www.python.org/
